@@ -208,6 +208,7 @@ body {
 
 .skills {
   margin-bottom: 0;
+  text-align: center;
 }
 
 .skills h3 {
@@ -322,4 +323,7 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #212349;
+}
+avtor { font-size: 10px;
+
 }
